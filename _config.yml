@@ -1,0 +1,28 @@
+name: A Better Sytem
+favicon: null
+layout_spectrum: 0.43904221896082163
+typography_spectrum: 0.18587905284948647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3083902169018984
+  lightness: 0.14482675003819168
+  saturation: 0.21049467497505248
+  rhythmicContrast: 0.9894953293260187
+purpose: []
